@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "hh",
+      "description": "111",
+      "id": 1
+    },
+    {
+      "title": "dev talk",
+      "description": "cool",
+      "id": 2
+    },
+    {
+      "title": "beba",
+      "description": "online",
+      "id": 3
+    },
+    {
+      "title": "honey",
+      "description": "badger",
+      "userId": "113168479160794991784",
+      "id": 4
+    },
+    {
+      "title": "stream again",
+      "description": "yummy",
+      "userId": "113168479160794991784",
+      "id": 5
+    }
+  ]
+}
